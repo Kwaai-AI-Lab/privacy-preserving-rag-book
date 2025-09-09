@@ -1,4 +1,5 @@
 # privacy-preserving-rag-book
 [WIP] Privacy preserving rag book, coming 2026
 
-![IMG_3861](https://github.com/user-attachments/assets/63bcfe8f-521f-40b1-871b-7c3645e83398)
+<img width="533" height="800" alt="6c873ef497416392b7d3749e256d22552c67f143d30086a36cda6ba8af7513cd" src="https://github.com/user-attachments/assets/56c7478a-4d9a-443f-b18a-e2b742cb8df4" />
+
